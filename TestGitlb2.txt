@@ -1,0 +1,1 @@
+Created local branch 2 from master meanwhile merge is done from Local_branch_1 to master, not this branch do not have latest change in master
